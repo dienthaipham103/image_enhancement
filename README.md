@@ -8,6 +8,12 @@ by top-hat transform" [1] [[paper]](https://www.sciencedirect.com/science/articl
 ## Implementation
 First of all, we implement some of basic morphological processing algorithms such as dilation, erosion, opening, closing, white-tophat, black-tophat. After that, multi scale image features extraction technique is used to build the image enhancement algorithms.
 
+## Documentation
+* Morphological processing:
+* Image enhancement:
+
+## Results
+
 ## References
 `
 [1] X. Bai , F. Zhou , B. Xue , Image enhancement using multi scale image features extracted by top-hat transform, Optics & Laser Technology 44 (2) (2012) 328–336 . 
