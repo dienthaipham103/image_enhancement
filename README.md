@@ -5,6 +5,9 @@ This repository contains the code of image enhancement. Image enhancement could 
 Actually, there is a considerable number of techniques for image enhancement. But we use the technique named "Image enhancement using multi scale image features extracted
 by top-hat transform" [1] [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0030399211001988). We implement the algorithm according to the paper. We are not sure that our implementation is correct 100% as in the paper, but the result looks good and reasonable. It is helpful for our purpose.
 
+## Implementation
+First of all, we implement some of basic morphological processing algorithms such as dilation, erosion, opening, closing, white-tophat, black-tophat. These algorithms are baseline of the image enhancement.
+
 ## References
 `
 [1] X. Bai , F. Zhou , B. Xue , Image enhancement using multi scale image features extracted by top-hat transform, Optics & Laser Technology 44 (2) (2012) 328–336 . 
