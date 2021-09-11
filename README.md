@@ -14,7 +14,8 @@ First of all, we implement some of basic morphological processing algorithms suc
 
 ## Results
 Example results for the image enhancement provided :
-Input Image            |  Output Enhanced Image (n=15)
+
+Input Image            |  Output Enhanced Image
 :-------------------------:|:-------------------------:
 ![](images/01.png)  |  ![](images/01_.png)
 ![](images/02.png)  |  ![](images/02_.png)
