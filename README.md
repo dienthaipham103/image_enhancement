@@ -10,7 +10,7 @@ First of all, we implement some of basic morphological processing algorithms suc
 
 ## Documentation
 * Morphological processing: [[Standford document]](https://web.stanford.edu/class/ee368/Handouts/Lectures/2019_Winter/7-Morphological.pdf)
-* Top-hat transform: [[wikipedia]](https://en.wikipedia.org/wiki/Top-hat_transform)
+* Top-hat transform: [[Wikipedia]](https://en.wikipedia.org/wiki/Top-hat_transform)
 
 ## Results
 
