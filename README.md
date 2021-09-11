@@ -3,7 +3,7 @@ This repository contains the code of image enhancement. Image enhancement could 
 
 ## Introduction
 Actually, there is a considerable number of techniques for image enhancement. But we use the technique named "Image enhancement using multi scale image features extracted
-by top-hat transform" [1].
+by top-hat transform" [1] [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0030399211001988).
 
 ## References
 `
