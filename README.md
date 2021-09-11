@@ -13,6 +13,12 @@ First of all, we implement some of basic morphological processing algorithms suc
 * Top-hat transform: [[Wikipedia]](https://en.wikipedia.org/wiki/Top-hat_transform)
 
 ## Results
+Example results for the image enhancement provided :
+
+Input Image            |  Output Enhanced Image
+:-------------------------:|:-------------------------:
+![](images/06.png)  |  ![](images/06_.png)
+![](images/07.png)  |  ![](images/07_.png)
 
 ## References
 `
