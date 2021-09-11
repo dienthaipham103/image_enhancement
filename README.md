@@ -17,7 +17,7 @@ There is a problem that images contain information of patients. So, we also writ
 ## Results
 Example results for the image enhancement provided :
 
-Input Image            |  Output Enhanced Image
+Input Images            |  Output Enhanced Images
 :-------------------------:|:-------------------------:
 ![](images/06.png)  |  ![](images/06_.png)
 ![](images/07.png)  |  ![](images/07_.png)
