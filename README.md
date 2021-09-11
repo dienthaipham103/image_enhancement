@@ -17,8 +17,8 @@ Example results for the image enhancement provided :
 
 Input Image            |  Output Enhanced Image
 :-------------------------:|:-------------------------:
-![](images/01.jpg)  |  ![](images/01_.png)
-![](images/02.JPG)  |  ![](images/02_.png)
+![](images/06.jpg)  |  ![](images/06_.png)
+![](images/07.JPG)  |  ![](images/07_.png)
 
 ## References
 `
