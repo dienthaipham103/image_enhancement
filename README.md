@@ -6,7 +6,7 @@ Actually, there is a considerable number of techniques for image enhancement. Bu
 by top-hat transform" [1] [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0030399211001988). We implement the algorithm according to the paper. We are not sure that our implementation is correct 100% as in the paper, but the result looks good and reasonable. It is helpful for our purpose.
 
 ## Implementation
-First of all, we implement some of basic morphological processing algorithms such as dilation, erosion, opening, closing, white-tophat, black-tophat. These algorithms are baseline of the image enhancement.
+First of all, we implement some of basic morphological processing algorithms such as dilation, erosion, opening, closing, white-tophat, black-tophat. After that, multi scale image features extraction technique is used to build the image enhancement algorithms.
 
 ## References
 `
